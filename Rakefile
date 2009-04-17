@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "ical-time"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{Utility for pulling data out of iCal, useful for time tracking}
     gem.email = "kevin.marsh@gmail.com"
     gem.homepage = "http://github.com/willcodeforfoo/ical-time"
     gem.authors = ["Kevin Marsh"]
