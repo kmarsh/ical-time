@@ -1,0 +1,7 @@
+= ical-time
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Kevin Marsh. See LICENSE for details.
